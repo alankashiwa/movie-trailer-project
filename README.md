@@ -6,14 +6,12 @@ This is the first project of [Udacity](https://www.udacity.com): [Full Stack Web
 # About the project
 Design a python class that can be used to store movie information and a script for execution. Starter code which can help creating the web content. 
 
-Here is the [demo](https://) of the page generated.
+Here is the [demo](https://alankashiwa.github.io/movie-trailer-project/fresh_tomatoes.html) of the page generated.
 
 # Quick start
 1. Install Python
 2. Clone the project to your local environment
-3. Execute `python entertainment_center.py` in the shell
+3. Open a shell interface and move to the project directory
+4. Execute `python entertainment_center.py`
+5. The website is now displayed on your default web browser
 
-# Extra features
-In addition to the provided code, the following features are included:
-
-1. Storyline has been included below the movie image.  
